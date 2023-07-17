@@ -340,6 +340,7 @@ body {
   color: #fff;
   text-align: left;
   text-shadow: 2px 2px 5px #555;
+  z-index: 9;
 }
 .wrap #circle article.face7 .inner div > div img {
   position: absolute;
